@@ -1,0 +1,17 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "A simple step by step node api",
+  "main": "index.js",
+  "repository": "https://github.com/guidiego/node-api-example.git",
+  "author": "Guilherme Diego <guidiego.expgames@gmail.com>",
+  "license": "GNU",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
